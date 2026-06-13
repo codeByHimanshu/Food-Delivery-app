@@ -25,9 +25,6 @@ export default function Home() {
             Delicious Food Delivered To Your Door
           </h1>
 
-          <p className="mt-4 text-lg">
-            Order from your favorite restaurants and enjoy fast delivery.
-          </p>
 
           <button className="mt-8 bg-white text-orange-500 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100">
             Order Now
